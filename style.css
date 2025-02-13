@@ -12,8 +12,6 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("https://i.pinimg.com/736x/ed/77/2a/ed772ae8d81a803db488022a69384d69.jpg")
-    no-repeat center center fixed;
   background-size: cover;
 }
 .container {
